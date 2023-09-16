@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33723.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NICAssist.GUI", "NICAssist.GUI\NICAssist.GUI.csproj", "{435F8BC8-3D12-407D-A4B1-2982C4A42647}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NICAssist.Core", "NICAssist.Core\NICAssist.Core.csproj", "{F393B198-DF75-4D05-BAE3-B4D2B77B2685}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{435F8BC8-3D12-407D-A4B1-2982C4A42647}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{435F8BC8-3D12-407D-A4B1-2982C4A42647}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{435F8BC8-3D12-407D-A4B1-2982C4A42647}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{435F8BC8-3D12-407D-A4B1-2982C4A42647}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F393B198-DF75-4D05-BAE3-B4D2B77B2685}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F393B198-DF75-4D05-BAE3-B4D2B77B2685}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F393B198-DF75-4D05-BAE3-B4D2B77B2685}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F393B198-DF75-4D05-BAE3-B4D2B77B2685}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8BC908FC-118C-4D67-B98F-8E822B1BA8FA}
+	EndGlobalSection
+EndGlobal
